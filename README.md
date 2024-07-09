@@ -1,1 +1,1 @@
-This project was created as a final project for the class Introduction to Programming in Python. It is a short story game. Credit to Luther Tychonievich for simplification of code (uvage.py). To run this file, unpack the zip file into a project and run game.py.
+This project was created as a final project for the class Introduction to Programming in Python. It is a short story game. Credit to Luther Tychonievich for simplification of code (uvage.py). To run this file, unpack the zip file into a project, download pygame and run game.py.
